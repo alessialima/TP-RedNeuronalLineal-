@@ -1,11 +1,4 @@
 #%% 
-# Nombre del grupo: LU: labubus unidos 
-# Participantes:
-#     Boismoreau Ana Luz, 1035/23
-#     Lanabere Delfina Daniela, 246/24 
-#     Lima Alessia Lourdes, 33/24
-#     Mazzei Agustin, 1183/22 
-#
 # Contenido del archivo:
 #     Importaciones
 #     Módulos del laboratorio:
@@ -1406,5 +1399,6 @@ t3 = np.array(t3)
 np.save("t1.npy", t1)
 np.save("t2.npy", t2)
 np.save("t3.npy", t3)
+
 
 
