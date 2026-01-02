@@ -1,2 +1,2 @@
-# TP-RedNeuronalLineal-
-Trabajo Práctico ALC- 2025 
+# TP - RED NEURONAL LINEAL 🧠🐈‍⬛
+ 
